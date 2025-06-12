@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=munsu's%20github&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=munsu's%20github&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
 
 <!--
 **Sonmunsu0913/Sonmunsu0913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
